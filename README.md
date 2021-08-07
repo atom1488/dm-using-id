@@ -1,5 +1,5 @@
 # dm-using-id
-## Made for DM people on Discord using their ID
+## Made for sending direct message to people on Discord using their ID
 
 ### In the dm.py, change the message variable by putting your own message and also put your Dicord token
 
